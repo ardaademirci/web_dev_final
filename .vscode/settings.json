@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Users\\Arda\\Desktop\\web_final\\web_final\\env\\Scripts\\python.exe",
+    "python.analysis.extraPaths": [
+        "C:\\Users\\Arda\\Desktop\\my_project\\web_final\\backend",
+        "C:\\Users\\Arda\\Desktop\\my_project\\web_final"
+    ]
+}
